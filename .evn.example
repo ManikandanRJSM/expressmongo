@@ -1,2 +1,4 @@
 APP_ENV = develop
 PORT = 7000
+DB_URI = 
+JWT_SECRET = mongoexpressjwt
