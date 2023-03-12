@@ -12,7 +12,7 @@ const adminSchema = mongoose.Schema({
 
 },
 {
-    timestam: true
+    timestamp: true
 })
 
 module.exports = mongoose.model('adminModel', adminSchema, 'admin');
